@@ -37,7 +37,7 @@ export default function Home() {
       <Head>
         <title>Prem Swaroop</title>
         <meta name="description" content="Portfolio of Prem Swaroop" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/icons8-favicon.gif" />
       </Head>
       <main className="bg-white px-10 dark:bg-gray-900 md:px-20 lg:px-40">
         <section className="min-h-screen">
@@ -65,7 +65,7 @@ export default function Home() {
               Prem Swaroop
             </h2>
             <h3 className="text-2xl py-2 dark:text-white md:text-3xl">
-              Developer and Designer
+              Developer and Tinkerner
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
               An electronics student with a passion for web development. #internet of things #web
@@ -172,6 +172,18 @@ export default function Home() {
               />
             </div>
           </div>
+
+          <div>
+            
+            <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
+              Building portfolio in progress........ 
+            </p>
+            <p className=" text-center text-md p-2 leading-8 text-gray-800 dark:text-gray-200 ">
+              copyright @premswaroop.
+            </p>
+          </div>
+
+
         </section>
       </main>
     </div>
